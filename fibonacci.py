@@ -1,4 +1,6 @@
+#creating a new function named as fib(n)
 def fib(n):
+#creating an input    
     n = int(input("Enter the number of terms in the series: "))
     a=0
     b=1
